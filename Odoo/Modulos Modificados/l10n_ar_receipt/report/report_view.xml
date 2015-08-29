@@ -3,6 +3,6 @@
     <data>
         <report id="receipt_pay_report" string="Print Receipt Pay"
             model="receipt.receipt" name="receipt.pay.report"
-            rml="report/receipt_pay_print.rml" />
+            rml="l10n_ar_receipt/report/receipt_pay_print.rml" />
     </data>
 </openerp>

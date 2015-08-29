@@ -37,6 +37,6 @@ class report_receipt_print(report_sxw.rml_parse):
 report_sxw.report_sxw(
     'report.receipt.print',
     'receipt.receipt',
-    'report/receipt_pay_print.rml',
+    'l10n_ar_receipt/report/receipt_pay_print.rml',
     parser=report_receipt_print,header="external"
 )

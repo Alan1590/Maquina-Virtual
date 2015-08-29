@@ -209,7 +209,7 @@
         </td>
         <td>
 	  <para style="Table Contents">[[repeatIn(receipt.voucher_ids,'voucher_ids')]]</para>
-          <para style="Table Contents">ZENZUAL</para>
+          <para style="Table Contents">[[ voucher_ids.move_line_id.amount ]]</para>
         </td>
         <td>
           <para style="P1">[[ voucher_ids.amount ]]</para>
